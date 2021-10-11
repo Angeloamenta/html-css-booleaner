@@ -60,3 +60,28 @@ margin-top: 20px;
 padding-left: 0;
 list-style:inside;
 }
+
+table{
+table-layout: fixed;
+border-collapse: collapse;
+}
+
+th{
+border-collapse: separate;
+background-color: #1AABE6;
+color: white;
+text-align: left;
+}
+
+td{
+width: 400px;
+    
+}
+
+.colonna-colorata{
+ background-color: #B2E6F2;
+}
+
+.articolo-tabella{
+margin-top: 20px;;
+}
