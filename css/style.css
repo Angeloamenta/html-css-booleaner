@@ -2,33 +2,32 @@ body{
 width: 1200px;
 }
 
- .barra-titolo{
- width: 1200px;
- height: 100px;
- background-color: #4DA1FF;
- background-image: url("../img/pattern.png");
+.barra-titolo{
+width: 1200px;
+height: 100px;
+background-color: #4DA1FF;
+background-image: url("../img/pattern.png");
 background-size: 350px;
 position: relative; 
- }
+}
 
- .logo{
-    width: 160px;
-    line-height: 150px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    position: absolute;
-    left: 0px;
-    bottom: 0px;
-    
-    }
+.logo{
+width: 160px;
+line-height: 150px;
+margin-left: 10px;
+margin-bottom: 10px;
+position: absolute;
+left: 0px;
+bottom: 0px;
+}
 
 .titolo{
- margin-top: 20px;
- margin-bottom: 0px;
+margin-top: 20px;
+margin-bottom: 0px;
 }
 
 .sott{
-    margin-top: 0px;
+margin-top: 0px;
 }
 
 .sottotitolo{
@@ -41,7 +40,7 @@ color: grey;
 }
 
 .link{
-    text-decoration: none;
+text-decoration: none;
 }
 
 .sezione-foto{
@@ -49,7 +48,7 @@ margin-top: 20px;
 }
 
 .descrizione-foto{
-    margin-top: 0px;
+margin-top: 0px;
 font-size: 10px;
 }
 
@@ -110,27 +109,27 @@ margin-top: 20px;
 }
 
 .immagine1{
-    background-image: url(../img/monitor.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 250px;
-    height: 200px;
+background-image: url(../img/monitor.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+width: 250px;
+height: 200px;
 }
 
 .immagine2{
 margin-top: 20px;
-    background-image: url(../img/graph.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 250px;
-    height: 200px;
+background-image: url(../img/graph.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+width: 250px;
+height: 200px;
 }
 
 .tex-img{
-    font-weight: bold;
-    font-size: 20px;
-    margin-left: 20px;
-    color: white;
+font-weight: bold;
+font-size: 20px;
+margin-left: 20px;
+color: white;
 }
