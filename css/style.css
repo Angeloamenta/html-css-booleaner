@@ -117,3 +117,10 @@ margin-top: 20px;
     width: 250px;
     height: 200px;
 }
+
+.tex-img{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+}
