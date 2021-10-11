@@ -1,0 +1,40 @@
+body{
+width: 1200px;
+}
+
+ .barra-titolo{
+ width: 1200px;
+ height: 100px;
+ background-color: #4DA1FF;
+ background-image: url("../img/pattern.png");
+background-size: 350px;
+position: relative; 
+ }
+
+ .logo{
+    width: 160px;
+    line-height: 150px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    
+    }
+
+.titolo{
+ margin-top: 20px;
+}
+
+.sottotitolo{
+color: grey;
+}
+
+.data-sottotitolo{
+font-size: 10px;
+color: grey;
+}
+
+.link{
+    text-decoration: none;
+}
