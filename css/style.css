@@ -46,3 +46,17 @@ margin-top: 20px;
 .descrizione-foto{
 font-size: 10px;
 }
+
+.articolo-lista{
+margin-top: 20px;
+}
+
+.evidenziato{
+background-color: yellow;
+}
+
+.lista-centrale{
+margin-top: 20px;
+padding-left: 0;
+list-style:inside;
+}
